@@ -1,0 +1,6 @@
+{
+  "name": "Pi Search",
+  "description": "Search for any sequence of digits inside the decimal expansion of π. Supports local generation, custom imports, statistics, and position lookup with high-speed Web Workers and IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
